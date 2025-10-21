@@ -1,4 +1,4 @@
-# 🌍 Global Fun Facts FREE API
+# 🌍 Global Fun Facts Multilanguage FREE API
 
 The **Global Fun Facts API** is the most complete and verified database of fun, educational, and cultural facts in the world — available in **100+ languages** and growing every week.
 
