@@ -1,6 +1,6 @@
 # 🌍 Global Fun Facts FREE API
 
-The **Global Fun Facts API** is the most complete and verified database of fun, educational, and cultural facts in the world — available in **60+ languages** and growing every week.
+The **Global Fun Facts API** is the most complete and verified database of fun, educational, and cultural facts in the world — available in **100+ languages** and growing every week.
 
 <p align="center">
   🆓 <b>FREE API</b> — use instantly on 
@@ -20,7 +20,7 @@ Instantly fetch random or specific facts by UUID, perfectly localized for your u
 ## 💎 Why It’s Unique
 
 - 🗂 **The largest verified fun-facts collection online**  
-- 🌐 **60+ supported languages**, including English, Russian, Spanish, French, German, Italian, Portuguese, Chinese (Mandarin), Japanese, Polish, Arabic, Hindi, Turkish, Dutch, Korean, Vietnamese, Indonesian, Thai, Persian, Ukrainian, Romanian, Czech, Greek, Hebrew, Swedish, Danish, Finnish, Norwegian, Hungarian, Serbian, Croatian, Bulgarian, Slovak, Slovenian, Lithuanian, Latvian, Estonian, Georgian, Armenian, Azerbaijani, Kazakh, Uzbek, Tamil, Telugu, Malayalam, Marathi, Punjabi, Gujarati, Sinhala, Swahili, Afrikaans, Amharic, Nepali, Burmese, Khmer, Mongolian, and Latin.  
+- 🌐 **100+ supported languages**, including English, Russian, Spanish, French, German, Italian, Portuguese, Chinese (Mandarin), Japanese, Polish, Arabic, Hindi, Turkish, Dutch, Korean, Vietnamese, Indonesian, Thai, Persian, Ukrainian, Romanian, Czech, Greek, Hebrew, Swedish, Danish, Finnish, Norwegian, Hungarian, Serbian, Croatian, Bulgarian, Slovak, Slovenian, Lithuanian, Latvian, Estonian, Georgian, Armenian, Azerbaijani, Kazakh, Uzbek, Tamil, Telugu, Malayalam, Marathi, Punjabi, Gujarati, Sinhala, Swahili, Afrikaans, Amharic, Nepali, Burmese, Khmer, Mongolian, and Latin.  
 - 🌏 Perfect for **internationalization (i18n)**, **education**, **entertainment**, **language learning**, **media**, and **social bots**.  
 - ⚡ **Simple, fast, and secure JSON REST endpoint** with human-quality localized texts.
 
@@ -44,7 +44,7 @@ If your language isn’t on the list — just contact us through the RapidAPI su
 ## ✨ Highlights
 
 - 🎲 **Random or UUID-based fact retrieval**  
-- 🈳 **Automatic localization for 60+ languages**  
+- 🈳 **Automatic localization for 100+ languages**  
 - ✅ **Verified, unique, and curated database**  
 - 🌎 **Designed for international reach and cross-cultural engagement**  
 
@@ -57,7 +57,7 @@ fun facts, trivia, global facts, world facts, multilingual api, translation api,
 
 # 🌍 Global Fun Facts API
 
-Discover **verified fun facts from around the world** — localized into **60+ languages** and ready for your multilingual app, website, or educational project.  
+Discover **verified fun facts from around the world** — localized into **100+ languages** and ready for your multilingual app, website, or educational project.  
 With this API, you can fetch random or specific facts (via UUID), automatically translated and stored for reuse.
 
 ---
@@ -67,7 +67,7 @@ With this API, you can fetch random or specific facts (via UUID), automatically 
 The **Global Fun Facts API** provides access to one of the world’s most complete collections of educational, entertaining, and cultural fun facts — each fact available in more than 60 languages.
 
 **Key Highlights:**
-- 🌐 60+ supported languages  
+- 🌐 100+ supported languages  
 - 🧩 Random or UUID-based fact retrieval  
 - 💬 Automatic localization and caching  
 - 🔒 Secure and production-ready JSON REST API  
@@ -184,15 +184,6 @@ curl "/fact.php?lang=es&uuid=df6dae1dba517a24b85a3dccca293eaa"
 - 🎡 **Games:** Random trivia for international audiences  
 - 📱 **Localization:** Global content feeds and cross-cultural education tools  
 
----
-
-## 🔒 Authentication
-
-All requests must be routed through **RapidAPI** and include the required headers:
-```bash
-X-RapidAPI-Proxy-Secret: YOUR_SECRET_KEY
-X-RapidAPI-Key: YOUR_RAPIDAPI_KEY
-```
 
 ---
 
